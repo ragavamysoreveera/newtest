@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workbench</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="appbar_scrolling_view_behavior">DashboardActivity</string>
+</resources>
